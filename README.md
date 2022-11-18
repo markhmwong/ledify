@@ -4,12 +4,26 @@
 I only collect data when it's necessary to monitor and improve my applications. I do not intend to personally use or sell data to track you.
 
 ### Analytics
-Telemetry Deck collects annonymous analystics data. Types of data I do collect can be referred to in full in the [Telemetry Deck](https://telemetrydeck.com/privacy/) privacy policy. A quick run down of what I can see 
+Telemetry Deck collects annonymous analystics data. Types of data I do collect can be referred to in full in the [Telemetry Deck](https://telemetrydeck.com/privacy/) privacy policy. A quick run down of what I can see that is of interest
 
     Operating System Versions
     Page view metrics
     Model Name
     Platform
+   
+Other details include
+    
+    app version
+    architecture
+    build number
+    isAppStore
+    isDebug
+    isTestFlight
+    locale
+    majorMinorSystemVersion
+    majorSystemVersion
+    targetEnvironment
+    telemetryClientVersion
 
 Personal information or unique ids cannot be seen to identifier yiou or your device.
 
