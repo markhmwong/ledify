@@ -1,4 +1,4 @@
-# LightDots
+# Ledify
 
 ## Privacy Policy
 I only collect data when it's necessary to monitor and improve my applications. I do not intend to personally use or sell data to track you.
